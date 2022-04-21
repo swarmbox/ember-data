@@ -8,6 +8,7 @@
   "repository": "https://github.com/emberjs/data/tree/master/packages/model",
   "license": "MIT",
   "author": "",
+  "main": "addon/index.ts",
   "directories": {
     "doc": "doc",
     "test": "tests"
