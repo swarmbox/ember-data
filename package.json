@@ -8,6 +8,7 @@
   "repository": "https://github.com/emberjs/data/tree/master/packages/adapter",
   "license": "MIT",
   "author": "",
+  "main": "addon/index.js",
   "directories": {
     "doc": "doc",
     "test": "tests"
