@@ -21,6 +21,7 @@
   },
   "author": "",
   "license": "MIT",
+  "main": "addon/index.js",
   "dependencies": {
     "@ember-data/adapter": "git@github.com:swarmbox/ember-data#adapter-3.20.5",
     "@ember-data/debug": "git@github.com:swarmbox/ember-data#debug-3.20.5",
